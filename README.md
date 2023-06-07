@@ -17,4 +17,5 @@ This project is about building a multi-section landing page.
 
 ## Demo
 
-https://mostafa-zewail77.github.io/Udacity-LandingPage/
+https://mostafahassan-dev.github.io/Udacity-LandingPage/
+
